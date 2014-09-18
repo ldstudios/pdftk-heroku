@@ -1,6 +1,10 @@
-# Pdftk::Heroku
+# PDFtk::Heroku
 
-TODO: Write a gem description
+Adds PDFtk library to your Heroku stack without the need for a custom buildpack.
+
+## Requires Cedar14 Stack
+
+Latest version of PDFtk 2.0.2 requires the [Heroku Cedar14 stack](https://blog.heroku.com/archives/2014/8/19/cedar-14-public-beta) due to certain dependancies only available in the newer releases of Ubuntu.
 
 ## Installation
 
@@ -15,10 +19,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install pdftk-heroku
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
