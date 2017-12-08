@@ -1,6 +1,6 @@
 # PDFtk::Heroku
 
-Adds PDFtk library to your Heroku stack without the need for a custom buildpack.
+Adds PDFtk 2.02 library to your Heroku stack without the need for a custom buildpack.
 
 ## Requires Cedar14 Stack
 
